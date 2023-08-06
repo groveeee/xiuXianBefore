@@ -2,6 +2,7 @@
 	"name": "xiuxianbefore",
 	"version": "0.0.1",
 	"scripts": {
+		"tauri": "tauri",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
@@ -13,6 +14,7 @@
 		"@neoconfetti/svelte": "^1.0.0",
 		"@sveltejs/adapter-auto": "^2.0.0",
 		"@sveltejs/kit": "^1.20.4",
+		"@tauri-apps/cli": "^1.4.0",
 		"eslint": "^8.28.0",
 		"eslint-config-prettier": "^8.5.0",
 		"eslint-plugin-svelte": "^2.30.0",
